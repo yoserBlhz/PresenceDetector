@@ -1,5 +1,9 @@
-cmake
-dlib
+cmake>=3.27
 face-recognition
+face-recognition-models==0.3.0
 opencv-python
 numpy
+fastapi
+uvicorn
+python-multipart
+setuptools>=68.0.0
