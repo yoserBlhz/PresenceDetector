@@ -35,22 +35,22 @@ Follow these steps to set up the project locally.
 git clone <repository_url>
 cd attendancyProject
 
-###2. Backend Setup (FastAPI)
-#Create and activate a Python virtual environment:
+### 2. Backend Setup (FastAPI)
+# Create and activate a Python virtual environment:
 cd backend
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 
-#Run the backend server:
+# Run the backend server:
 uvicorn backend.api:app --reload
 
-####3. Frontend Setup (React + Vite)
+#### 3. Frontend Setup (React + Vite)
 # Navigate to the frontend folder: 
 cd ../frontend
 
 # Install dependencies:
 npm install
 
-#Start the development server:
+# Start the development server:
 npm run dev
 
