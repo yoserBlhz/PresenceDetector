@@ -54,3 +54,8 @@ npm install
 # Start the development server:
 npm run dev
 
+
+<img width="1872" height="827" alt="Image" src="https://github.com/user-attachments/assets/cd5bd26a-3f0a-4c0d-8bd3-0677ef42ecc3" />
+<img width="1017" height="808" alt="Image" src="https://github.com/user-attachments/assets/e7e69a07-31af-49fd-8752-116d0deb3e78" />
+<img width="1902" height="752" alt="Image" src="https://github.com/user-attachments/assets/8757ac3b-9e01-4c8e-878a-9547b484d355" />
+<img width="1882" height="817" alt="Image" src="https://github.com/user-attachments/assets/21dd1b0d-5eb5-4c9a-97a1-bfddffec1625" />
